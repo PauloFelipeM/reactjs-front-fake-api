@@ -1,0 +1,7 @@
+import styled from 'styled-components';
+
+export const Container = styled.div.attrs({
+  className: 'container',
+})`
+  margin-top: 25px;
+`;

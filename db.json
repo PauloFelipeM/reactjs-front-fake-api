@@ -1,0 +1,18 @@
+{
+  "phones": [
+    {
+      "value": "+55 84 91234-1234",
+      "monthyPrice": "3,50",
+      "setupPrice": "3,50",
+      "currency": "BR",
+      "id": 1
+    },
+    {
+      "value": "+55 84 91234-4321",
+      "monthyPrice": "3,50",
+      "setupPrice": "3,50",
+      "currency": "BR",
+      "id": 2
+    }
+  ]
+}
